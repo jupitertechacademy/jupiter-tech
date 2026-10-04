@@ -115,7 +115,7 @@ export default function HomePage() {
         </div>
       </div>
 
-      {/* 5 — Why Jupiter Tech Academy */}
+      {/* 5 — Why Jupiter Tech--Academy */}
       <section className="bg-ink-950 pb-16 sm:pb-20 lg:pb-24">
         <div className={shell}>
           <ScrollReveal>
